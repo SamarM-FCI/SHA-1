@@ -2,12 +2,12 @@
 for Security Course
 # Secure hash algorithm
 ## Steps
-  -Appending Padding Bits 
-  *Appending Length
-  +Generate 80 word
-  -Preparing Processing Functions
-  *Compute temp variable in each group
-  +Compute hash value
+  1.Appending Padding Bits 
+  2.Appending Length
+  3.Generate 80 word
+  4.Preparing Processing Functions
+  5.Compute temp variable in each group
+  6.Compute hash value
 
 
 
